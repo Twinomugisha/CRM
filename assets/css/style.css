@@ -1,0 +1,67 @@
+﻿
+.align_right
+{
+    text-align:right;
+}
+.align_left
+{
+    text-align:left;
+}
+.float_left
+{
+    float:left;
+}
+.float_right
+{
+    float:right;
+}
+.dont_pad
+{margin:0px;
+ padding:0px;
+
+}
+
+.home_page
+{
+    max-height:500px;
+    background-color:#fff;
+}
+.footer_custom
+{
+    min-height:250px;
+    background-color:#fff;
+    margin-top:100px;
+    bottom:0;
+}
+.white_bg
+{
+    background-color:#fff;
+}
+
+.align_left
+{
+    text-align:left;
+}
+.align_right
+{
+     text-align:right;
+}
+
+.create_space
+{
+    margin-top:20px;
+}
+.inline{
+    display:inline;
+}
+.center_txt
+{
+    text-align:center;
+}
+.pad_from_top {
+    margin-top: 30px;
+}
+.pad_left
+{
+    margin-left:10px;
+}

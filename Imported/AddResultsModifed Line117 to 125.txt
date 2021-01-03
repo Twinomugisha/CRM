@@ -1,0 +1,8 @@
+   <!-- <asp:TemplateColumn HeaderText="Comment">
+                            <ItemTemplate>
+                                <asp:TextBox ID="Comment" runat="server" EnableViewState="true" Height="40px"
+                                    Text='<%# DataBinder.Eval(Container, "DataItem.Comment") %>' TextMode="MultiLine"
+                                    Width="150">
+                                </asp:TextBox>
+                            </ItemTemplate>
+                        </asp:TemplateColumn> -->

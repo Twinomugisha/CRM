@@ -1,0 +1,193 @@
+﻿
+body
+{
+	margin: 0 0 0 0;
+    background-color: #EEEEEE;
+}
+
+.buttons
+{
+    background-color: #EEEEEE;
+    border-color: #6A62B8;
+    border-width: 1px;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+    text-transform: uppercase;
+	height: 19px;
+}
+  	 
+.gridgeneralstyle
+{
+    border-color: White;
+    border-style: ridge;
+    border-width: 2px;
+    padding: 2;
+    background-color: White;
+    text-align: left;
+    
+}
+
+.gridHeaderStyle
+{
+    background-color: #5695DA;
+    font-weight: bold;
+    font-family: Cambria;
+    font-size: 12pt;
+    color: White;
+    text-align: center;
+}
+
+.gridRowStyle
+{
+    font-family: Verdana;
+    font-size: 10pt;
+    height: 20px;
+    text-align: left;
+}
+
+.gridAlternatingRowStyle
+{
+    background-color: #E9E9E9;
+    font-family: Verdana;
+    font-size: 10pt;
+    text-align: left;
+}
+                       
+.gridEditField
+{
+    font-family: Cambria;
+    font-size: 11pt;
+    text-align: center;
+    width: 65px;
+}   
+.gridtable
+{
+    padding: 0px;
+    margin: 0px;
+    background-color: #e0f2e6;
+    border: 1px solid #A4A2CA;
+}
+    
+.gridSubtable 
+{
+    background-color: whitesmoke;
+    padding: 0px;
+    margin: 3px;
+    border: 1px solid #A4A2CA;
+    
+    }
+    
+.codeTextbox 
+{
+    width: 60px;
+    background-color: #E9E9E9;
+    border-color: #A4A2CA;
+    border-width: 1px;
+    border-style: solid;                             
+    }
+    
+.gridTableLabels
+{
+    font-family: Cambria;
+    font-size: 12pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #006633;
+}
+.loginlabels 
+{
+    font-family: Cambria;
+    font-size: 8pt;
+    font-weight: bold;
+    color: #006633;
+}
+
+.TableStyles
+{
+    font-weight: bolder;
+    FONT-SIZE: 12px;
+    CURSOR: default;
+    COLOR: #ffffff;
+    FONT-FAMILY: Verdana, Arial;
+    BACKGROUND-COLOR: #5695DA;
+    TEXT-ALIGN: left;
+    TEXT-DECORATION: none
+    
+}
+
+.CommonImageTextButtonDropDown {
+	BORDER-RIGHT: #a7bad5 2px solid;
+	BORDER-TOP: #dce4f9 2px solid;
+	FONT-SIZE: 12px; BACKGROUND: #20479d;
+	BORDER-LEFT: #dce4f9 2px solid; 
+	COLOR: #fff; BORDER-BOTTOM: #a7bad5 2px solid; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	WHITE-SPACE: nowrap
+}
+
+
+/************ ajax calendar ***********************/
+
+.MyCalendar .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: lemonchiffon;
+    color: blue;
+}
+.MyCalendar .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+
+/************ MaskedEdit Related Styles ***********************/
+.MaskedEditFocus
+{
+    background-color: #ffffcc;
+    color: #000000;
+}
+.MaskedEditMessage
+{
+	color: #ff0000;
+	font-weight: bold;
+}
+.MaskedEditError
+{
+    background-color: #ffcccc;
+}
+.MaskedEditFocusNegative
+{
+    background-color: #ffffcc;
+    color: #ff0000;
+}
+.MaskedEditBlurNegative
+{
+    color: #ff0000;
+}
+
+/************ Validator Callout Related Styles ***********************/
+
+.validatorCalloutHighlight
+{
+    background-color: lemonchiffon;
+}
+    
+    
+
+
+
+    
+	
+	
+
+
